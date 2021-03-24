@@ -13,8 +13,7 @@
 ## How to start : yarn -> yarn dev
 
 
-## 1:
--Overview
+## 1:Overview
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/0.jpg)
 
 
@@ -45,19 +44,21 @@
 
 
 
-## 7:Here the application will automatically create two collections <favs> <spots> in mongoDB if they
-## are not exist, or application will retrieve datas from mongoDB and synchronize to the frontend in 
-## avoid to second time creation.
+## 7:MongoDB
 
-## <favs> serves as store for the sport info, while 
-## <spots> serves for store the response from API as shown above, with a new addition filed <choosefav> which 
-## defines the <want to go> status for individual spot.
-## Here is an example spot status by default
+Here the application will automatically create two collections <favs> <spots> in mongoDB if they
+are not exist, or application will retrieve datas from mongoDB and synchronize to the frontend in 
+avoid to second time creation.
+
+<favs> serves as store for the sport info, while 
+<spots> serves for store the response from API as shown above, with a new addition filed <choosefav> which 
+defines the <want to go> status for individual spot.
+Here is an example spot status by default
  
-## in <favs>
+## in favs
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/8.jpg)
  
-## in <spots>
+## in spots
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/9.jpg)
  
  
