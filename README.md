@@ -13,21 +13,21 @@
 ## How to start : yarn -> yarn dev
 
 
+## 1:Overview
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/0.jpg)
 
-## 1:Carousel and NaviBar before Login
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/1-1.jpg)
+## 2:Catch default geometric boundary of France on https://sportihome.com/fr (category spot)
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/1.jpg)
 
-## 2:Searchbar and Showcase related to datas in MongoDB
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/1-2.jpg)
+## 3:Reconfirm default geometric boundary on category stay, which finail give us the coordination 
+##  as follow :southwest -5.045468018749943,41.62379572959986  northeast 8.138125731250057,51.44042978000877
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/2.jpg)
 
-## 3:Search for sepecific content by typing parts of the caracters of title and it's result
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/2.jpg)
+## 4:Test api on postman
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/3.jpg)
 
-## 4:Sign Up Page
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/3.jpg)
-
-## 5:Main before loggedin
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/4.jpg)
+## 5:API response
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/4.jpg)
 
 ## 6:Main after loggedin (userchanged)
 ![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/5.jpg)
