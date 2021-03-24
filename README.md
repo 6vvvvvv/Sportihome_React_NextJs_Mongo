@@ -19,7 +19,7 @@
 ## 2:Catch default geometric boundary of France on https://sportihome.com/fr (category spot)
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/1.jpg)
 
-## 3:Reconfirm default geometric boundary on category stay, which finail give us the coordination 
+## 3:Reconfirm default geometric boundary on category stay, which finail give us the coordinate 
 ##  as follow :southwest -5.045468018749943,41.62379572959986  northeast 8.138125731250057,51.44042978000877
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/2.jpg)
 
@@ -31,9 +31,8 @@
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/5.jpg)
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/6.jpg)
 
-
-## 6:Main after loggedin (userchanged)
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/5.jpg)
+## 6:Locate user with button icon on top left corner and return the current coordinate
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/7.jpg)
 
 ## 7:Editing Page (authenticated)
 ![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/6.jpg)
