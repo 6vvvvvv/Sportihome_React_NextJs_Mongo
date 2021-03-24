@@ -64,7 +64,7 @@ with a pin icon, red means <want to go> status false, blue means true)
  
 
 ## 8:CRUD
-###WANT TO GO test (REMOVE is same logic)
+### WANT TO GO test (REMOVE is same logic)
 once we click want to go icon in popup, icon on left is want to go, the one on right is remove
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/14.jpg)
 
