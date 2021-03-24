@@ -46,19 +46,19 @@
 
 ## 7:MongoDB
 
-Here the application will automatically create two collections <favs> <spots> in mongoDB if they
+Here the application will automatically create two collections FAVS SPOTS in mongoDB if they
 are not exist, or application will retrieve datas from mongoDB and synchronize to the frontend in 
 avoid to second time creation.
 
-<favs> serves as store for the sport info, while 
-<spots> serves for store the response from API as shown above, with a new addition filed <choosefav> which 
+FAVS serves as store for the sport info, while 
+SPOTS serves for store the response from API as shown above, with a new addition filed CHOOSEFAV which 
 defines the <want to go> status for individual spot.
 Here is an example spot status by default
  
-## in favs
+## in FAVS
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/8.jpg)
  
-## in spots
+## in SPOTS
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/9.jpg)
  
  
