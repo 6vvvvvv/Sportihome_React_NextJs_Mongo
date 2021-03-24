@@ -62,8 +62,19 @@ Here is an example spot status by default
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/9.jpg)
  
 
-## 8:Log Out (userchanged)
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/7.jpg)
+## 8:WANT TO GO test
+once we click want to go icon in popup, icon on left is want to go, the one on right is remove
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/14.jpg)
+
+once click <want to go> on single item, <choosefav> in SPOT will switch to <true>(show as follows),
+at the same time, filed <favs> under sport categort <TRAIL> will add this item to the list.
+ 
+## In SPOTS  (new id: 6049f5716b1c302c1f3164dc is added)
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/10.jpg)
+
+## In FAVS  (choosefav: true)
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/11.jpg)
+
 
 ## 9:Detail Page1(with carousel)
 ![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/11.jpg)
