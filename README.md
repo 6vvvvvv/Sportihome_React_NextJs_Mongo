@@ -32,7 +32,7 @@
 
 
 
-## 5:API response (spots within France)
+## 5:API response (all spots within France)
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/4.jpg)
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/5.jpg)
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/6.jpg)
