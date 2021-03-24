@@ -28,6 +28,9 @@
 
 ## 5:API response
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/4.jpg)
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/5.jpg)
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/6.jpg)
+
 
 ## 6:Main after loggedin (userchanged)
 ![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/5.jpg)
