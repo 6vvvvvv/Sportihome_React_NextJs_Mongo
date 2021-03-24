@@ -53,7 +53,8 @@ avoid to second time creation.
 FAVS serves as store for the sport info, while 
 SPOTS serves for store the response from API as shown above, with a new addition filed CHOOSEFAV which 
 defines the <want to go> status for individual spot.
-Here is an example spot status by default
+Here is an example spot status by default (once app rendered all the data will show at its right positon
+with a pin icon, red means <want to go> status false, blue means true)
  
 ## In FAVS  (favs list empty by default)
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/8.jpg)
@@ -77,7 +78,7 @@ at the same time, filed <favs> under sport categort <TRAIL> will add this item t
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/11.jpg)
 
 
-## 9: Multiple item test
+## 9: Multiple CRUD test
 ## In SPOTS  (new id: 6049f5716b1c302c1f3164dc is added)
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/13.jpg)
 
