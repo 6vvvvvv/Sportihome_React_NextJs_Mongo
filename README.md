@@ -55,15 +55,12 @@ SPOTS serves for store the response from API as shown above, with a new addition
 defines the <want to go> status for individual spot.
 Here is an example spot status by default
  
-## in FAVS
+## In FAVS  (favs list empty by default)
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/8.jpg)
  
-## in SPOTS
+## In SPOTS (choosefave false by default)
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/9.jpg)
  
- 
- 
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/6.jpg)
 
 ## 8:Log Out (userchanged)
 ![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/7.jpg)
