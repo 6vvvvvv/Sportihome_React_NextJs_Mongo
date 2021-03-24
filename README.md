@@ -16,25 +16,53 @@
 ## 1:Overview
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/0.jpg)
 
+
+
 ## 2:Catch default geometric boundary of France on https://sportihome.com/fr (category spot)
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/1.jpg)
+
+
 
 ## 3:Reconfirm default geometric boundary on category stay, which finail give us the coordinate 
 ##  as follow :southwest -5.045468018749943,41.62379572959986  northeast 8.138125731250057,51.44042978000877
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/2.jpg)
 
+
+
 ## 4:Test api on postman
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/3.jpg)
+
+
 
 ## 5:API response
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/4.jpg)
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/5.jpg)
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/6.jpg)
 
+
+
 ## 6:Locate user with button icon on top left corner and return the current coordinate
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/7.jpg)
 
-## 7:Editing Page (authenticated)
+
+
+## 7:Here the application will automatically create two collections <favs> <spots> in mongoDB if they
+## are not exist, or application will retrieve datas from mongoDB and synchronize to the frontend in 
+## avoid to second time creation.
+
+## <favs> serves as store for the sport info, while 
+## <spots> serves for store the response from API as shown above, with a new addition filed <choosefav> which 
+## defines the <want to go> status for individual spot.
+## Here is an example spot status by default
+ 
+## in <favs>
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/8.jpg)
+ 
+## in <spots>
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/9.jpg)
+ 
+ 
+ 
 ![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/6.jpg)
 
 ## 8:Log Out (userchanged)
