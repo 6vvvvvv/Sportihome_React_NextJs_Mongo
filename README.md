@@ -47,10 +47,10 @@
 
 
 ## 7:Here the application will automatically create two collections <favs> <spots> in mongoDB if they
-## are not exist, or application will retrieve datas from mongoDB and synchronize to the frontend in 
-## avoid to second time creation.
+ are not exist, or application will retrieve datas from mongoDB and synchronize to the frontend in 
+ avoid to second time creation.
 
-## <favs> serves as store for the sport info, while 
+ <favs> serves as store for the sport info, while 
 ## <spots> serves for store the response from API as shown above, with a new addition filed <choosefav> which 
 ## defines the <want to go> status for individual spot.
 ## Here is an example spot status by default
