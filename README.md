@@ -62,7 +62,8 @@ Here is an example spot status by default
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/9.jpg)
  
 
-## 8:WANT TO GO test
+## 8:CRUD
+###WANT TO GO test (REMOVE is same logic)
 once we click want to go icon in popup, icon on left is want to go, the one on right is remove
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/14.jpg)
 
@@ -76,19 +77,13 @@ at the same time, filed <favs> under sport categort <TRAIL> will add this item t
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/11.jpg)
 
 
-## 9:Detail Page1(with carousel)
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/11.jpg)
+## 9: Multiple item test
+## In SPOTS  (new id: 6049f5716b1c302c1f3164dc is added)
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/13.jpg)
 
-## 9-1:Detail Page2(with carousel)
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/12.jpg)
+## In FAVS  (choosefav: true)
+![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/12.jpg)
 
-## 10:MongDB Overview
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/8.jpg)
 
-## 11:Users Collection
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/9.jpg)
-
-## 12:Recipes Collection
-![image](https://github.com/6vvvvvv/React_Redux_Node_Recipes/blob/master/img/10.jpg)
 
 
