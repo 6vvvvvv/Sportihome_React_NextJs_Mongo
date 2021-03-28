@@ -117,7 +117,7 @@ SPORTS = [
 
 ## 7:MongoDB
 
-Here the application will automatically create two collections FAVS SPOTS in mongoDB if they
+Here the application will automatically creates two collections FAVS / SPOTS in mongoDB if they
 are not exist, or application will retrieve datas from mongoDB and synchronize to the frontend in 
 avoid to second time creation.
 
