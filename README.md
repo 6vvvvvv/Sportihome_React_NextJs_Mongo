@@ -22,7 +22,7 @@
 
 
 
-## 3:Reconfirm default geometric boundary on category stay, which finail give us the coordinate as follow :southwest -5.045468018749943,41.62379572959986  northeast 8.138125731250057,51.44042978000877
+## 3:Reconfirm default geometric boundary on category stay, which finally give us the coordinate as follow :southwest -5.045468018749943,41.62379572959986  northeast 8.138125731250057,51.44042978000877
 ![image](https://github.com/6vvvvvv/Sportihome_React_NextJs_Mongo/blob/master/screenshot/2.jpg)
 
 
